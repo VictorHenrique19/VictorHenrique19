@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Olá, me chamo Victor Henrique, tenho 19 anos moro no interior de são paulo em uma cidade chamada são carlos, eu desde sempre tive curiosidade pela área de tecnologia estou começando minha carreira agora e sempre estou disposto a aprender algo novo. No meu tempo livre curto jogos online como Warzone, e posto alguns video jogando e me diventindo em minha conta no tiktok, "[VkShelby](https://www.tiktok.com/@vkshelby0?is_from_webapp=1&sender_device=pc)", esse é o meu instagram pessoal"[vctr_h017](https://www.instagram.com/vctr_h017?igsh=ZWdnMWhhbTJjNzlx)".
+Meu nome é Victor Henrique, tenho 19 anos e sou de São Carlos – SP. Desde cedo, a tecnologia não é apenas um interesse, mas uma paixão que me motiva a explorar, criar e inovar. Estou dando os primeiros passos da minha carreira com determinação e sede de aprendizado, sempre pronto para transformar ideias em resultados e enfrentar qualquer desafio como uma oportunidade de crescimento., "[VkShelby](https://www.tiktok.com/@vkshelby0?is_from_webapp=1&sender_device=pc)", esse é o meu instagram pessoal"[vctr_h017](https://www.instagram.com/vctr_h017?igsh=ZWdnMWhhbTJjNzlx)".
 
 <p align="left">
     <a href="https://github.com/VictorHenrique19?tab=repositories&sort=stargazers">
